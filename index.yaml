@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  email:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-06T04:23:46.903502101Z"
+    description: A Helm chart for Kubernetes
+    digest: c302333f4d9824e8d8856e3cdde93b5da03fb989ecb48934a0e6aa68e2cdde2e
+    name: email
+    type: application
+    urls:
+    - email-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-06T04:23:46.902373062Z"
